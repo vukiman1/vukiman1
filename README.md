@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kim An from Hai Duong City
-- 👀 I’m interested in Front-End
+- 👀 I’m interested in Front-End, Design, UI/UX
 - 🌱 I’m currently learning Information Tecknonogi at Thang Long University
 - 🎂My birth day is 01/02/2002.
 - 🏫I was learn: HTML, CSS, JS, C++ and a little UI/UX in udemy.
