@@ -2,6 +2,7 @@
 - 👀 I’m interested in Fullstack Dev, Design, UI/UX
 - 🌱 I’m currently learning Information Technonogy at Thang Long University
 - In addition, I know edit photos with Photoshop, edit videos with Premeire.
+
 **Program language:** Javascript
 **Framework:** ReactJs, NodeJs
 **Database:** MongoDB, MySQL
