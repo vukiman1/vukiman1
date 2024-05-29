@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Information Technonogy at Thang Long University
 - In addition, I know edit photos with Photoshop, edit videos with Premeire.
 
-**Program language:** Javascript <br />
+**Program language:** Javascript, PHP <br />
 **Framework:** ReactJs, NodeJs, ExpressJs, Bootstrap, Tailwind, Mongoose <br />
 **Database:** MongoDB, MySQL <br />
 <!---
