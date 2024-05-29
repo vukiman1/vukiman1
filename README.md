@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Information Technonogy at Thang Long University
 - In addition, I know edit photos with Photoshop, edit videos with Premeire.
 
-**Program language:** Javascript
-**Framework:** ReactJs, NodeJs
-**Database:** MongoDB, MySQL
+**Program language:** Javascript <br />
+**Framework:** ReactJs, NodeJs <br />
+**Database:** MongoDB, MySQL <br />
 <!---
 vukiman1/vukiman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
