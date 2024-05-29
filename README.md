@@ -4,7 +4,7 @@
 - In addition, I know edit photos with Photoshop, edit videos with Premeire.
 
 **Program language:** Javascript <br />
-**Framework:** ReactJs, NodeJs <br />
+**Framework:** ReactJs, NodeJs, ExpressJs, Bootstrap, Tailwind, Mongoose <br />
 **Database:** MongoDB, MySQL <br />
 <!---
 vukiman1/vukiman1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
